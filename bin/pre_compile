@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# This script runs before the Python buildpack compiles your app
+
+set -e
+
+echo "-----> Installing uv..."
+curl -LsSf https://astral.sh/uv/install.sh | sh
+export PATH="$HOME/.cargo/bin:$PATH"
+
+echo "-----> uv installed successfully"
+uv --version

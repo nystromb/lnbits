@@ -5,7 +5,12 @@ set -e
 
 echo "-----> Installing uv..."
 curl -LsSf https://astral.sh/uv/install.sh | sh
-source $HOME/.local/bin/env
+export PATH="$HOME/.local/bin:$PATH"
 
 echo "-----> uv installed successfully"
 uv --version
+
+echo "-----> Syncing dependencies with uv..."
+uv sync --frozen
+
+echo "-----> Dependencies installed successfully"

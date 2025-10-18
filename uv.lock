@@ -440,24 +440,24 @@ wheels = [
 
 [[package]]
 name = "breez-sdk-liquid"
-version = "0.9.1"
+version = "0.11.7"
 source = { registry = "https://pypi.org/simple" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a6/18/82738bb946fbd5a62fe363f2e9b608a7ca9e2e9ca8d566787da56af3b93f/breez_sdk_liquid-0.9.1-cp310-cp310-macosx_11_0_universal2.whl", hash = "sha256:414a7c04dbf869435fe234b3b9987699c15dc2f8d4660d9ca1a51af608331b45", size = 26024860, upload-time = "2025-05-22T12:42:07.945Z" },
-    { url = "https://files.pythonhosted.org/packages/95/e2/8c86e571c2e1798b5d0ef20ebb588e6e76a85ebf0136b600fbfb334b7153/breez_sdk_liquid-0.9.1-cp310-cp310-manylinux_2_31_aarch64.whl", hash = "sha256:7f461b6b10ddfe9cfb58119e590e5f67da4d7c93fc580a84a0116ce9fd21dffa", size = 16400772, upload-time = "2025-05-22T12:42:10.925Z" },
-    { url = "https://files.pythonhosted.org/packages/96/41/9f49558415ac13df2371fc9d486aaf0d07d49735caf845dd944b3cbe5f3c/breez_sdk_liquid-0.9.1-cp310-cp310-manylinux_2_31_x86_64.whl", hash = "sha256:c27efe35539e4092dddbe5315f5cefffccbdd699017ed8733611d11eb52f4ce0", size = 15658538, upload-time = "2025-05-22T12:42:13.421Z" },
-    { url = "https://files.pythonhosted.org/packages/7d/f4/81fe1dbb63b13611e5541d5aae70e6a0166f73208e0d01aa56a954bb521a/breez_sdk_liquid-0.9.1-cp310-cp310-win32.whl", hash = "sha256:375f6322c2552d15d6ba68302a85fdc345a7671eeda8fea92c013a16c5e96505", size = 10526907, upload-time = "2025-05-22T12:42:16.258Z" },
-    { url = "https://files.pythonhosted.org/packages/38/11/b8f2f0daa02f97fb1b23c32cad5f195fcf30bf7093dda982d01d58d4f51e/breez_sdk_liquid-0.9.1-cp310-cp310-win_amd64.whl", hash = "sha256:f28d107099fb7caaac4051d5950a4f11bf823e11b56e797976c5fa2a7280d597", size = 11079422, upload-time = "2025-05-22T12:42:18.709Z" },
-    { url = "https://files.pythonhosted.org/packages/7e/70/b428e714c433d9193ef6917059f4d9d8e9d1c32d1d2eee632ce65efdca3b/breez_sdk_liquid-0.9.1-cp311-cp311-macosx_11_0_universal2.whl", hash = "sha256:acefa49896bdb4ca06d351faacbf075646d574dda5539033df11310ec5a94446", size = 26024861, upload-time = "2025-05-22T12:42:21.166Z" },
-    { url = "https://files.pythonhosted.org/packages/42/ab/f92f258ba54053a48948b54912f72d9124e92699c809267473034c2a3797/breez_sdk_liquid-0.9.1-cp311-cp311-manylinux_2_31_aarch64.whl", hash = "sha256:d0e54fd5c8ce542dc2061d8a1ef46e6a1d430dbaea5eab369bb91ae2c4a1be7b", size = 16400775, upload-time = "2025-05-22T12:42:23.886Z" },
-    { url = "https://files.pythonhosted.org/packages/0d/e3/0fec9245a1006151fe572d46cf50f3c882c5ca15cef306a63f1b467d2bf7/breez_sdk_liquid-0.9.1-cp311-cp311-manylinux_2_31_x86_64.whl", hash = "sha256:a5d1bfd4d3286d57c110d925332416b0903dda076dadede02c4b7db67576f0bf", size = 15658540, upload-time = "2025-05-22T12:42:25.914Z" },
-    { url = "https://files.pythonhosted.org/packages/83/2c/4c508330a2735a49a815e06ae7876a57fb75a41e256f5dd70994df8f0f20/breez_sdk_liquid-0.9.1-cp311-cp311-win32.whl", hash = "sha256:3ce2152f0a2ba65f4425fd22efb8e1dafb419e5fcf3b93dfe06fc061b1d1c0c6", size = 10526908, upload-time = "2025-05-22T12:42:27.803Z" },
-    { url = "https://files.pythonhosted.org/packages/3f/c4/1ac65ea96afd5e847f3027eeab67c629e03f19d5fb95fe6f36d6042812cc/breez_sdk_liquid-0.9.1-cp311-cp311-win_amd64.whl", hash = "sha256:8cdb4f247bccc0f4b9bbfff4451faa78d7b17e76a9dc918804880b600f1d4249", size = 11079420, upload-time = "2025-05-22T12:42:29.988Z" },
-    { url = "https://files.pythonhosted.org/packages/00/6b/0adb00ea6ac9f9c8b917a690859e16f01f097533808c8ebe261c71171bf0/breez_sdk_liquid-0.9.1-cp312-cp312-macosx_11_0_universal2.whl", hash = "sha256:c463191a89a829afcae19c94f7683dac415667755d68c212afc60d8f2b21ba63", size = 2113486, upload-time = "2025-05-22T12:42:31.709Z" },
-    { url = "https://files.pythonhosted.org/packages/d3/c2/5d3f8feeaf61d04c5266385df5f96bc86c0f2f30536c0aea195d02018dcd/breez_sdk_liquid-0.9.1-cp312-cp312-manylinux_2_31_aarch64.whl", hash = "sha256:52efaeae2c278b498b37de1090e80f73987ee943743e69a363877ed93cd7a31e", size = 16400811, upload-time = "2025-05-22T12:42:33.062Z" },
-    { url = "https://files.pythonhosted.org/packages/90/90/78e5394e103861bddfa96cf57346e525789825e5f86beb650796f9c3bdc9/breez_sdk_liquid-0.9.1-cp312-cp312-manylinux_2_31_x86_64.whl", hash = "sha256:68aebea98990319c677bcbd7d1de258627b85063a29720879986694b9d393adb", size = 15658577, upload-time = "2025-05-22T12:42:35.501Z" },
-    { url = "https://files.pythonhosted.org/packages/d6/82/0384263df1d6f214faacdedb2e4080ec63c26749249262dab51a06695147/breez_sdk_liquid-0.9.1-cp312-cp312-win32.whl", hash = "sha256:f53e4a1973dfd41df3ac3ecb42cf72acb71f49d5727a8acab25668b51a953bb2", size = 10526907, upload-time = "2025-05-22T12:42:37.851Z" },
-    { url = "https://files.pythonhosted.org/packages/0c/6e/8b3fe3e0d89c0d5ca6d85bdbdd6e99be31faf07a716666bd3c605f8d1a06/breez_sdk_liquid-0.9.1-cp312-cp312-win_amd64.whl", hash = "sha256:6adb1f3f3ccd4b743a11dcc0b307db604c3424f42e2547f94fa939f0afb9bb85", size = 11079422, upload-time = "2025-05-22T12:42:40.968Z" },
+    { url = "https://files.pythonhosted.org/packages/2d/d4/3b0e213225c5830a829e5be39845993a6264bde138f4d26e8346bdb1897b/breez_sdk_liquid-0.11.7-cp310-cp310-macosx_11_0_universal2.whl", hash = "sha256:675a747f3275b0585cc09eb8d6d0af0ba3f6071cfb86039a218a84dc01027037", size = 24822922, upload-time = "2025-10-09T14:22:14.66Z" },
+    { url = "https://files.pythonhosted.org/packages/59/65/0397b396112f5dc325842089522d623aa5533af4ddce411497629035d6d0/breez_sdk_liquid-0.11.7-cp310-cp310-manylinux_2_31_aarch64.whl", hash = "sha256:c04b7fab87d35b5639317d47873fd3670ae8ae81ac477b2095f52c30babd4162", size = 16015119, upload-time = "2025-10-09T14:22:18.002Z" },
+    { url = "https://files.pythonhosted.org/packages/b8/be/3c87d404973f3178272d2f00fb1945ac450898cff4284bac25f3cc7eec1e/breez_sdk_liquid-0.11.7-cp310-cp310-manylinux_2_31_x86_64.whl", hash = "sha256:1b41682835cdf1d09c435c5637f19f53fc45fdce8e2bdfcbf7142dde27cb00e0", size = 15206681, upload-time = "2025-10-09T14:22:20.714Z" },
+    { url = "https://files.pythonhosted.org/packages/f3/39/2c9a4ef12bd8f53d1725107cb2b3d5f3512aa186805c5505133c63b823f3/breez_sdk_liquid-0.11.7-cp310-cp310-win32.whl", hash = "sha256:0cce7223de94010c1f33e8299413538f87663176646585411632339e4d4a0131", size = 10202711, upload-time = "2025-10-09T14:22:23.324Z" },
+    { url = "https://files.pythonhosted.org/packages/71/2a/832c0abf22f0fc98a684dd4dd0f3d7eeced2778d8efdf969ac35d4488135/breez_sdk_liquid-0.11.7-cp310-cp310-win_amd64.whl", hash = "sha256:360109dd2b9fc0aa2e35b629f17b74b245107a79f48faa83f7be890577d1e9a9", size = 10733474, upload-time = "2025-10-09T14:22:25.203Z" },
+    { url = "https://files.pythonhosted.org/packages/14/49/e4e4321cb3fb623e5cb9b5b7995391a61c7c27854db0ae9ec04e8752422e/breez_sdk_liquid-0.11.7-cp311-cp311-macosx_11_0_universal2.whl", hash = "sha256:08d6c0fe08a093eba432afd5127a23d432cb3dd98a7637aa1f13772287854e49", size = 24822922, upload-time = "2025-10-09T14:22:27.377Z" },
+    { url = "https://files.pythonhosted.org/packages/4d/48/8634f5f6130a1986a6610235850b709a89957d514e6af5476770827733a2/breez_sdk_liquid-0.11.7-cp311-cp311-manylinux_2_31_aarch64.whl", hash = "sha256:b2bb15d73da99d18545c7a29af08b67d6d118a7f6989f92fdfbc503135f5b0fe", size = 16015120, upload-time = "2025-10-09T14:22:29.807Z" },
+    { url = "https://files.pythonhosted.org/packages/31/d6/34ec091e17252b6cba547fd406e331531b06756097200b41626d236e1a81/breez_sdk_liquid-0.11.7-cp311-cp311-manylinux_2_31_x86_64.whl", hash = "sha256:9314c3af2eda9f59cacece633a11e27b31c089f41417b32d5cd3cfb6abdb52ba", size = 15206682, upload-time = "2025-10-09T14:22:32.179Z" },
+    { url = "https://files.pythonhosted.org/packages/ce/e6/4ab3199f5091a54d0c8e0ff9a0053c7463fa59bdadb55b08e27b32c0ac3b/breez_sdk_liquid-0.11.7-cp311-cp311-win32.whl", hash = "sha256:2dcba4ef9202443db98d7d563a56d9b986901fc20be3d00b7cb00c276cb0af01", size = 10202710, upload-time = "2025-10-09T14:22:34.223Z" },
+    { url = "https://files.pythonhosted.org/packages/3b/e6/8ffde60609559965d8d23b4f17642fc38346a4e69f0514653317b5cc93df/breez_sdk_liquid-0.11.7-cp311-cp311-win_amd64.whl", hash = "sha256:a01f88eda93a286f36e465a6457ed5b35b39216ebd4b8d3d315c2db570f3a4d5", size = 10733475, upload-time = "2025-10-09T14:22:36.767Z" },
+    { url = "https://files.pythonhosted.org/packages/a9/a7/9e74f9e3555045fb8ad22f030398d8e4bbe95fb273281b1938286cbd8e6f/breez_sdk_liquid-0.11.7-cp312-cp312-macosx_11_0_universal2.whl", hash = "sha256:c7c36bdfbc7694ebea7d190e569d9684f75686299a20446a7053e792b8687b4c", size = 24822959, upload-time = "2025-10-09T14:22:39.016Z" },
+    { url = "https://files.pythonhosted.org/packages/4f/26/0d172322d557ea503bd4c8473baba09de18b90566d5f844e50a2999693d0/breez_sdk_liquid-0.11.7-cp312-cp312-manylinux_2_31_aarch64.whl", hash = "sha256:495f6050b160c880235634133be10eb406a16f5ed70f169a7fc398f0816b6b34", size = 16015156, upload-time = "2025-10-09T14:22:42.302Z" },
+    { url = "https://files.pythonhosted.org/packages/49/c3/40743425f527158dac49292de19eca9fc1ccd09494042dc519526ac7d641/breez_sdk_liquid-0.11.7-cp312-cp312-manylinux_2_31_x86_64.whl", hash = "sha256:9db1c9d28f5853d9fe5baf862f2d256aa7dcaf6912065904e527361057888f1b", size = 15206719, upload-time = "2025-10-09T14:22:44.855Z" },
+    { url = "https://files.pythonhosted.org/packages/72/f4/86b5dc97a1f4d5e51573aba72b68af44111149a6f7f16d0fcdfd4d9b6854/breez_sdk_liquid-0.11.7-cp312-cp312-win32.whl", hash = "sha256:3beb57b0f7b944cd62868256a313d32ad451cb9bb05f6bb8ac4aaca3f68d7a1f", size = 10202711, upload-time = "2025-10-09T14:22:46.95Z" },
+    { url = "https://files.pythonhosted.org/packages/13/36/3e753e20a40ea2209d5379ff3816a9b914f0395b08bb5d8e9a0e9236e67a/breez_sdk_liquid-0.11.7-cp312-cp312-win_amd64.whl", hash = "sha256:ef00675f9995786ef2451590a4ba0a2640fa2da3a505bd80a4a54ff33d383845", size = 10733474, upload-time = "2025-10-09T14:22:49.57Z" },
 ]
 
 [[package]]
@@ -1311,6 +1311,7 @@ dependencies = [
 breez = [
     { name = "breez-sdk" },
     { name = "breez-sdk-liquid" },
+    { name = "greenlet" },
 ]
 liquid = [
     { name = "wallycore" },
@@ -1350,7 +1351,7 @@ requires-dist = [
     { name = "bech32", specifier = "==1.2.0" },
     { name = "bolt11", specifier = "==2.1.1" },
     { name = "breez-sdk", marker = "extra == 'breez'", specifier = "==0.8.0" },
-    { name = "breez-sdk-liquid", marker = "extra == 'breez'", specifier = "==0.9.1" },
+    { name = "breez-sdk-liquid", marker = "extra == 'breez'", specifier = "==0.11.7" },
     { name = "click", specifier = "==8.2.1" },
     { name = "ecdsa", specifier = "==0.19.1" },
     { name = "embit", specifier = "==0.8.0" },
@@ -1358,6 +1359,7 @@ requires-dist = [
     { name = "fastapi", specifier = "==0.116.1" },
     { name = "fastapi-sso", specifier = "==0.18.0" },
     { name = "filetype", specifier = "==1.2.0" },
+    { name = "greenlet", marker = "extra == 'breez'", specifier = "==3.2.4" },
     { name = "grpcio", specifier = "==1.69.0" },
     { name = "httpx", specifier = "==0.27.0" },
     { name = "itsdangerous", specifier = "==2.2.0" },
